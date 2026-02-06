@@ -2,3 +2,7 @@
     remote = remote_storage
 ['remote "remote_storage"']
     url = ../../dvc_remote
+['remote "remote_gdrive"']
+    url = gdrive://1PihRjY__Momc5ivsya0NZQ5XIztbieBC
+    gdrive_client_id = 97871277398-jar79ouv25cqo2at91b428m7kap7vfop.apps.googleusercontent.com
+    gdrive_client_secret =  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
